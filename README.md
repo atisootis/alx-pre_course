@@ -1,1 +1,2 @@
-My first readme
+bit by bit am getting there
+
